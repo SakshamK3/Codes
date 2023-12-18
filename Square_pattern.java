@@ -1,3 +1,4 @@
+package Codes;
 import java.util.Scanner;
 class Square_pattern{
     public static void main(String args[]){
@@ -9,5 +10,6 @@ class Square_pattern{
             }
             System.out.println();
         }
+        sc.close();
     }
 }
